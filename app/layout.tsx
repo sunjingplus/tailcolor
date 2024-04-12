@@ -30,7 +30,6 @@ export default function RootLayout({ children}: Readonly<{children: ReactNode}>)
       <script defer data-domain="tailcolor.top" src="https://plausible.io/js/script.js"></script>
       </head>
       <body className={inter.className}>
-      <Header /> 
         {children}
         </body>
     </html>
