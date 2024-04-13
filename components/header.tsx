@@ -16,7 +16,7 @@ export default function Header() {
                 </div>
                 <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                   <div className="h-10 w-10  bg-white rounded-full">
-                    <a href="https://github.com/2914004831/color-space">
+                    <a href="https://github.com/sunjingplus/tailcolor">
                       <svg
                         fill="currentColor"
                         viewBox="0 0 24 24"
