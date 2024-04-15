@@ -123,7 +123,7 @@ export default function Main(){
                 style={{ overflow: "hidden" }}
               >
                 <div className="w-full h-full" ref={ref}>
-                  <Component />
+                  <Component Id={1}/>
                 </div>
               </div>
               <DownLoad name={name} setdownload={getValue} Id={Id} />
